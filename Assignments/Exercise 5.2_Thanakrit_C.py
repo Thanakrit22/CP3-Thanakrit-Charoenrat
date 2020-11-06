@@ -1,0 +1,6 @@
+print("  >This is a program to calculate the speed of your car.<")
+print("_____________________________________________________________")
+speed = input("The speed you drive now (v)  : 1.53km/min")
+time =  input("The time you drive per  (hr) : 60min/1hr ")
+print("____________________________________________________________")
+print("So this car runs at an average speed of 91.8 km/hr.")
