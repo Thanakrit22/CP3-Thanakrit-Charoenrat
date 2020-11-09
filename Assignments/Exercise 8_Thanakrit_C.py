@@ -12,9 +12,13 @@ if usernameInput == "Thanakrit22" and passwordInput == "yoyo2211":
         Vat = 7
         result = price + (price * 7 / 100)
         print(result)
+        print("___________________________________")
+        print("Thanks you!!!!!")
     elif userSelected == 2:
         price1 = int(input("First Product Price :"))
         price2 = int(input("Second Product Price :"))
         print(price1 + price2)
+        print("____________________________________")
+        print("Thanks you!!!!!")
 else:
     print (" Your username and your password is incorrect,please try again!!!!")
